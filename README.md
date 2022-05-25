@@ -1,8 +1,8 @@
-# eksuvo_honlap
+# wedding-page
  This was a program with Codeberry
 
-Sok érdekes dolgot tartalmaz ez a projekt:
-Reszponzív elrendezés
+This project includes interesting elements:
+Responsive design
 fovicon
-pszeudo-element vonalak és azok elrejtése
-háttérkép rendezése mobilon és desktopon
+pseudo-elemnents and hiding them
+background-picture changes on different screen sizes
